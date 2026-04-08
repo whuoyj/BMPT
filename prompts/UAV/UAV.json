@@ -1,0 +1,622 @@
+{
+  "drink": [
+    "The action \"drink\" involves lifting a cup, bottle, or container to the mouth and swallowing a liquid.",
+    "a photo of Drink: A person is consuming a beverage from a cup or bottle."
+  ],
+  "eat snacks": [
+    "The action \"eat snacks\" shows a person consuming small food items such as chips, nuts, or biscuits.",
+    "a photo of Eat snacks: A person is holding and eating some snack food."
+  ],
+  "brush hair": [
+    "The action \"brush hair\" shows someone grooming and smoothing their hair using a comb or brush.",
+    "a photo of Brush hair: A person is styling their hair using a brush."
+  ],
+  "drop something": [
+    "The action \"drop something\" occurs when a person accidentally or intentionally releases an object from their hand, causing it to fall.",
+    "a photo of Drop something: A person is letting an item fall from their hand."
+  ],
+  "pick up something": [
+    "The action \"pick up something\" shows a person bending or reaching to lift an object from a surface or the floor.",
+    "a photo of Pick up something: A person is lifting an item from the ground or table."
+  ],
+  "throw away something": [
+    "The action \"throw away something\" involves discarding an object by tossing it into a trash bin or away from oneself.",
+    "a photo of Throw away something: A person is throwing an object into the garbage."
+  ],
+  "sit down": [
+    "The action \"sit down\" refers to lowering the body into a seated position on a chair, bench, or surface.",
+    "a photo of Sit down: A person is lowering themselves into a sitting position."
+  ],
+  "stand up": [
+    "The action \"stand up\" involves rising from a seated or lying position to stand upright.",
+    "a photo of Stand up: A person is lifting their body into a standing posture."
+  ],
+  "applaud": [
+    "The action \"applaud\" involves repeatedly striking palms together to show appreciation or approval.",
+    "a photo of Applaud: A person is clapping their hands."
+  ],
+  "read": [
+    "The action \"read\" shows a person looking at written text in a book, phone, or paper to understand information.",
+    "a photo of Read: A person is reading a book or document."
+  ],
+  "write": [
+    "The action \"write\" involves forming letters or symbols using a pen, pencil, or stylus.",
+    "a photo of Write: A person is writing on paper with a pen."
+  ],
+  "put on a coat": [
+    "The action \"put on a coat\" shows a person lifting and wearing a coat or jacket onto their body.",
+    "a photo of Put on a coat: A person is putting their arms into the sleeves of a coat."
+  ],
+  "take off a coat": [
+    "The action \"take off a coat\" involves removing a coat or jacket from the body.",
+    "a photo of Take off a coat: A person is pulling a coat off their shoulders."
+  ],
+  "put on glasses": [
+    "The action \"put on glasses\" shows a person lifting and placing eyeglasses onto their face.",
+    "a photo of Put on glasses: A person is putting on a pair of glasses."
+  ],
+  "take off glasses": [
+    "The action \"take off glasses\" refers to removing eyeglasses from the face with one or both hands.",
+    "a photo of Take off glasses: A person is removing glasses from their face."
+  ],
+  "put on a hat": [
+    "The action \"put on a hat\" involves lifting and placing a hat onto the head.",
+    "a photo of Put on a hat: A person is putting a hat onto their head."
+  ],
+  "take off a hat": [
+    "The action \"take off a hat\" shows a person removing a hat from their head.",
+    "a photo of Take off a hat: A person is lifting a hat off their head."
+  ],
+  "throw away a hat": [
+    "The action \"throw away a hat\" involves discarding a hat by tossing it away.",
+    "a photo of Throw away a hat: A person is throwing a hat into the air or towards a bin."
+  ],
+  "cheer": [
+    "The action \"cheer\" shows a person expressing excitement or encouragement with loud shouts or gestures.",
+    "a photo of Cheer: A person is raising their arms while cheering."
+  ],
+  "wave hands": [
+    "The action \"wave hands\" involves moving one or both hands back and forth for greeting or signaling.",
+    "a photo of Wave hands: A person is waving their hand to greet someone."
+  ],
+  "kick something": [
+    "The action \"kick something\" shows a person striking an object with their foot.",
+    "a photo of Kick something: A person is kicking an item on the ground."
+  ],
+  "reach into pockets": [
+    "The action \"reach into pockets\" involves placing a hand inside a pocket to retrieve or store an item.",
+    "a photo of Reach into pockets: A person is putting their hand into a pocket."
+  ],
+  "jump on single leg": [
+    "The action \"jump on single leg\" shows a person hopping repeatedly on one foot.",
+    "a photo of Jump on single leg: A person is balancing and hopping on one leg."
+  ],
+  "jump on two legs": [
+    "The action \"jump on two legs\" involves a person leaping upward using both feet simultaneously.",
+    "a photo of Jump on two legs: A person is jumping into the air with both feet."
+  ],
+  "make a phone call": [
+    "The action \"make a phone call\" shows a person holding a phone to their ear and speaking.",
+    "a photo of Make a phone call: A person is talking on a mobile phone."
+  ],
+  "play with cell phones": [
+    "The action \"play with cell phones\" involves interacting with a phone for entertainment or multitasking.",
+    "a photo of Play with cell phones: A person is using a smartphone with both hands."
+  ],
+  "point somewhere": [
+    "The action \"point somewhere\" involves extending a finger or hand to indicate a direction or object.",
+    "a photo of Point somewhere: A person is pointing their finger toward something."
+  ],
+  "look at the watch": [
+    "The action \"look at the watch\" shows a person raising their wrist and checking the time.",
+    "a photo of Look at the watch: A person is looking at a wristwatch."
+  ],
+  "rub hands": [
+    "The action \"rub hands\" involves pressing and moving both hands against each other, often for warmth or anticipation.",
+    "a photo of Rub hands: A person is rubbing their hands together."
+  ],
+  "bow": [
+    "The action \"bow\" involves bending the upper body forward to show respect or greeting.",
+    "a photo of Bow: A person is bending forward politely."
+  ],
+  "shake head": [
+    "The action \"shake head\" involves moving the head side to side to indicate disagreement or refusal.",
+    "a photo of Shake head: A person is shaking their head left and right."
+  ],
+  "salute": [
+    "The action \"salute\" shows a person raising their hand to their forehead as a formal gesture of respect.",
+    "a photo of Salute: A person is saluting with their right hand."
+  ],
+  "cross palms together": [
+    "The action \"cross palms together\" shows a person placing their hands together in front of the body with palms touching.",
+    "a photo of Cross palms together: A person is pressing their palms together."
+  ],
+  "cross arms in front to say no": [
+    "The action \"cross arms in front to say no\" shows a person forming an X-shape with their arms as a gesture of refusal.",
+    "a photo of Cross arms in front to say no: A person is crossing their arms in front of their chest."
+  ],
+  "wear headphones": [
+    "The action \"wear headphones\" shows a person lifting and placing headphones over their ears.",
+    "a photo of Wear headphones: A person is wearing over-ear headphones."
+  ],
+  "take off headphones": [
+    "The action \"take off headphones\" involves removing headphones from the ears.",
+    "a photo of Take off headphones: A person is lifting headphones away from their head."
+  ],
+  "make a shh sign": [
+    "The action \"make a shh sign\" shows a person placing an index finger in front of their lips to request silence.",
+    "a photo of Make a shh sign: A person is holding a finger over their lips."
+  ],
+  "touch the hair": [
+    "The action \"touch the hair\" involves a person lightly placing their hand on their hair or brushing it aside.",
+    "a photo of Touch the hair: A person is touching their hair with one hand."
+  ],
+  "thumb up": [
+    "The action \"thumb up\" shows a person raising their thumb upward to signal approval.",
+    "a photo of Thumb up: A person is giving a thumbs-up gesture."
+  ],
+  "thumb down": [
+    "The action \"thumb down\" shows a person lowering their thumb to indicate disapproval.",
+    "a photo of Thumb down: A person is giving a thumbs-down gesture."
+  ],
+  "make an OK sign": [
+    "The action \"make an OK sign\" involves forming a circle with the thumb and index finger to signal agreement.",
+    "a photo of Make an OK sign: A person is making an OK hand gesture."
+  ],
+  "make a victory sign": [
+    "The action \"make a victory sign\" involves extending the index and middle fingers to form a V-shape.",
+    "a photo of Make a victory sign: A person is showing a V-sign with their fingers."
+  ],
+  "punch with fists": [
+    "The action \"punch with fists\" shows a person striking outward using a closed fist.",
+    "a photo of Punch with fists: A person is punching forward with their fist."
+  ],
+  "figure snap": [
+    "The action \"figure snap\" involves producing a snapping sound by pressing a finger against the thumb and releasing it quickly.",
+    "a photo of Figure snap: A person is snapping their fingers."
+  ],
+  "open the bottle": [
+    "The action \"open the bottle\" shows a person twisting or pulling a cap to open a bottle.",
+    "a photo of Open the bottle: A person is unscrewing the cap of a bottle."
+  ],
+  "smell": [
+    "The action \"smell\" involves lifting an object toward the nose to sense its scent.",
+    "a photo of Smell: A person is sniffing a flower or item."
+  ],
+  "squat": [
+    "The action \"squat\" shows a person lowering their hips toward the ground while bending the knees.",
+    "a photo of Squat: A person is performing a squatting motion."
+  ],
+  "apply cream to face": [
+    "The action \"apply cream to face\" involves spreading lotion or cream across the face using the hands.",
+    "a photo of Apply cream to face: A person is rubbing cream onto their face."
+  ],
+  "apply cream to hands": [
+    "The action \"apply cream to hands\" shows a person rubbing lotion onto their hands.",
+    "a photo of Apply cream to hands: A person is applying cream to their hands."
+  ],
+  "grasp a bag": [
+    "The action \"grasp a bag\" involves a person lifting or holding a bag by its handles or straps.",
+    "a photo of Grasp a bag: A person is picking up a bag by its handle."
+  ],
+  "put down a bag": [
+    "The action \"put down a bag\" shows a person lowering and placing a bag onto the ground or surface.",
+    "a photo of Put down a bag: A person is setting a bag down."
+  ],
+  "put something into a bag": [
+    "The action \"put something into a bag\" involves placing an item inside a bag.",
+    "a photo of Put something into a bag: A person is inserting an item into a bag."
+  ],
+  "take something out of a bag": [
+    "The action \"take something out of a bag\" shows a person retrieving an item from inside a bag.",
+    "a photo of Take something out of a bag: A person is removing an item from a bag."
+  ],
+  "open a box": [
+    "The action \"open a box\" involves lifting or removing the lid of a box to access its contents.",
+    "a photo of Open a box: A person is opening the lid of a box."
+  ],
+  "move a box": [
+    "The action \"move a box\" shows a person lifting or sliding a box from one place to another.",
+    "a photo of Move a box: A person is carrying or pushing a box."
+  ],
+  "put up hands": [
+    "The action \"put up hands\" involves raising both hands, often as a signal or gesture of surrender.",
+    "a photo of Put up hands: A person is lifting their hands above their head."
+  ],
+  "put hands on hips": [
+    "The action \"put hands on hips\" shows a person standing with hands resting on their waist.",
+    "a photo of Put hands on hips: A person has both hands placed on their hips."
+  ],
+  "wrap arms around": [
+    "The action \"wrap arms around\" involves extending both arms around someone or something to hold it closely.",
+    "a photo of Wrap arms around: A person is wrapping their arms around another person."
+  ],
+  "shake arms": [
+    "The action \"shake arms\" involves moving arms quickly back and forth.",
+    "a photo of Shake arms: A person is shaking their arms vigorously."
+  ],
+  "step on the spot walk": [
+    "The action \"step on the spot walk\" involves marching or stepping in place without moving forward.",
+    "a photo of Step on the spot walk: A person is marching in place."
+  ],
+  "kick aside": [
+    "The action \"kick aside\" shows a person swinging their foot sideways to push an object away.",
+    "a photo of Kick aside: A person is kicking an item to the side."
+  ],
+  "kick backward": [
+    "The action \"kick backward\" involves extending the leg backward to strike something behind.",
+    "a photo of Kick backward: A person is kicking backward with one leg."
+  ],
+  "cough": [
+    "The action \"cough\" shows a person forcefully expelling air from their lungs, often covering their mouth.",
+    "a photo of Cough: A person is coughing into their hand or elbow."
+  ],
+  "sneeze": [
+    "The action \"sneeze\" involves a sudden involuntary expulsion of air through the nose and mouth.",
+    "a photo of Sneeze: A person is sneezing and covering their nose."
+  ],
+  "yawn": [
+    "The action \"yawn\" shows a person opening their mouth widely due to tiredness or boredom.",
+    "a photo of Yawn: A person is yawning with their mouth open."
+  ],
+  "blow nose": [
+    "The action \"blow nose\" involves exhaling air forcefully through the nose into a tissue.",
+    "a photo of Blow nose: A person is blowing their nose using a tissue."
+  ],
+  "stagger": [
+    "The action \"stagger\" shows a person walking unsteadily as if losing balance.",
+    "a photo of Stagger: A person is swaying or stumbling while walking."
+  ],
+  "headache": [
+    "The action \"headache\" involves a person touching or holding their head to show discomfort.",
+    "a photo of Headache: A person is holding their head in pain."
+  ],
+  "chest discomfort": [
+    "The action \"chest discomfort\" shows a person touching their chest to indicate pain or tightness.",
+    "a photo of Chest discomfort: A person is pressing a hand to their chest."
+  ],
+  "backache": [
+    "The action \"backache\" shows a person reaching or holding their back due to pain.",
+    "a photo of Backache: A person is touching their lower back with discomfort."
+  ],
+  "neck-ache": [
+    "The action \"neck-ache\" involves a person rubbing or supporting their neck to relieve pain.",
+    "a photo of Neck-ache: A person is holding their neck in discomfort."
+  ],
+  "vomit": [
+    "The action \"vomit\" involves a person bending forward and retching or expelling stomach contents.",
+    "a photo of Vomit: A person is bending forward, appearing nauseous."
+  ],
+  "use a fan": [
+    "The action \"use a fan\" shows a person holding and waving a handheld fan to cool down.",
+    "a photo of Use a fan: A person is fanning themselves with a handheld fan."
+  ],
+  "stretch body": [
+    "The action \"stretch body\" involves extending limbs or torso to improve flexibility or relieve tension.",
+    "a photo of Stretch body: A person is stretching their arms or torso."
+  ],
+  "punching someone": [
+    "The action \"punching someone\" involves striking another person with a closed fist.",
+    "a photo of Punching someone: A person is punching another individual."
+  ],
+  "kicking someone": [
+    "The action \"kicking someone\" shows a person extending their leg to strike another person.",
+    "a photo of Kicking someone: A person is kicking another person."
+  ],
+  "pushing someone": [
+    "The action \"pushing someone\" involves applying force to move another person backward.",
+    "a photo of Pushing someone: A person is pushing another individual."
+  ],
+  "slap someone on the back": [
+    "The action \"slap someone on the back\" involves patting or striking a person's back in a friendly or encouraging manner.",
+    "a photo of Slap someone on the back: A person is patting someone’s back."
+  ],
+  "point someone": [
+    "The action \"point someone\" shows a person pointing directly at another individual.",
+    "a photo of Point someone: A person is pointing at someone."
+  ],
+  "hug": [
+    "The action \"hug\" involves wrapping arms around another person as a gesture of comfort or affection.",
+    "a photo of Hug: Two people are embracing each other."
+  ],
+  "give something to someone": [
+    "The action \"give something to someone\" shows a person handing an item to another.",
+    "a photo of Give something to someone: A person is giving an object to someone else."
+  ],
+  "steal something from other’s pocket": [
+    "The action \"steal something from other’s pocket\" involves secretly taking an item from someone’s pocket without being noticed.",
+    "a photo of Steal something from other’s pocket: A person is reaching into another person’s pocket stealthily."
+  ],
+  "rob something from someone": [
+    "The action \"rob something from someone\" involves forcibly taking an item from another person.",
+    "a photo of Rob something from someone: A person is grabbing an item from someone by force."
+  ],
+  "shake hands": [
+    "The action \"shake hands\" involves two people grasping each other’s right hand and moving it up and down.",
+    "a photo of Shake hands: Two people are shaking hands."
+  ],
+  "walk toward someone": [
+    "The action \"walk toward someone\" shows a person moving forward in the direction of another individual.",
+    "a photo of Walk toward someone: A person is walking toward another person."
+  ],
+  "walk away from someone": [
+    "The action \"walk away from someone\" involves turning and leaving in the opposite direction of another person.",
+    "a photo of Walk away from someone: A person is walking away from another individual."
+  ],
+  "hit someone with something": [
+    "The action \"hit someone with something\" involves striking another person using an object.",
+    "a photo of Hit someone with something: A person is swinging an object toward someone else."
+  ],
+  "threat some with a knife": [
+    "The action \"threat someone with a knife\" involves holding a knife toward another person in a threatening manner.",
+    "a photo of Threat someone with a knife: A person is pointing a knife at another individual."
+  ],
+  "bump into someone": [
+    "The action \"bump into someone\" shows a person accidentally colliding with another while walking.",
+    "a photo of Bump into someone: Two people are bumping into each other."
+  ],
+  "walk side by side": [
+    "The action \"walk side by side\" shows two people walking next to each other at the same pace.",
+    "a photo of Walk side by side: Two people are walking together side by side."
+  ],
+  "high five": [
+    "The action \"high five\" involves two people slapping their raised hands together in celebration or greeting.",
+    "a photo of High five: Two people are raising and slapping their palms together."
+  ],
+  "drink a toast": [
+    "The action \"drink a toast\" shows a person raising a glass and drinking during a celebratory moment.",
+    "a photo of Drink a toast: A person is lifting a glass for a toast."
+  ],
+  "move something with someone": [
+    "The action \"move something with someone\" involves two or more people working together to lift or carry an object.",
+    "a photo of Move something with someone: Two people are carrying a heavy object together."
+  ],
+  "take a phone for someone": [
+    "The action \"take a phone for someone\" shows a person retrieving or picking up a phone on behalf of another.",
+    "a photo of Take a phone for someone: A person is handing a phone to another person."
+  ],
+  "stalk someone": [
+    "The action \"stalk someone\" involves following someone quietly or secretly from behind.",
+    "a photo of Stalk someone: A person is sneaking behind another individual."
+  ],
+  "whisper in someone’s ear": [
+    "The action \"whisper in someone’s ear\" shows a person leaning close to another to speak quietly.",
+    "a photo of Whisper in someone’s ear: A person is whispering closely to another."
+  ],
+  "exchange something with someone": [
+    "The action \"exchange something with someone\" shows two people swapping or trading items.",
+    "a photo of Exchange something with someone: Two individuals are exchanging items."
+  ],
+  "lend an arm to support someone": [
+    "The action \"lend an arm to support someone\" involves physically assisting another by offering an arm for balance or help.",
+    "a photo of Lend an arm to support someone: A person is helping another walk by offering an arm."
+  ],
+  "rock-paper-scissors": [
+    "The action \"rock-paper-scissors\" shows two people playing the hand gesture game using rock, paper, and scissors signals.",
+    "a photo of Rock-paper-scissors: Two hands are showing rock, paper, or scissors gestures."
+  ],
+  "hover": [
+    "The action \"hover\" shows an object or vehicle staying suspended in one position above the ground.",
+    "a photo of Hover: A drone or object is floating in place above the ground."
+  ],
+  "land": [
+    "The action \"land\" shows a vehicle or object descending and touching down on the ground.",
+    "a photo of Land: A drone or aircraft is landing."
+  ],
+  "land at designated locations": [
+    "The action \"land at designated locations\" shows a controlled landing onto a specific marked spot.",
+    "a photo of Land at designated locations: A drone is landing precisely on a marked target."
+  ],
+  "move forward": [
+    "The action \"move forward\" involves motion in a straight direction ahead.",
+    "a photo of Move forward: An object or person is traveling forward."
+  ],
+  "move backward": [
+    "The action \"move backward\" shows movement in the reverse direction away from the front.",
+    "a photo of Move backward: A person or object is moving backward."
+  ],
+  "move left": [
+    "The action \"move left\" involves shifting motion to the left side.",
+    "a photo of Move left: A drone or person is moving to the left."
+  ],
+  "move right": [
+    "The action \"move right\" involves shifting motion to the right side.",
+    "a photo of Move right: A drone or person is moving to the right."
+  ],
+  "ascend": [
+    "The action \"ascend\" shows upward movement, rising higher above the ground.",
+    "a photo of Ascend: A drone or object is lifting upward."
+  ],
+  "descend": [
+    "The action \"descend\" involves moving downward from a higher position toward the ground.",
+    "a photo of Descend: A drone or person is lowering downward."
+  ],
+  "accelerate": [
+    "The action \"accelerate\" involves increasing speed and moving faster.",
+    "a photo of Accelerate: A vehicle or drone is speeding up."
+  ],
+  "decelerate": [
+    "The action \"decelerate\" involves reducing speed and slowing down.",
+    "a photo of Decelerate: A vehicle or drone is slowing its motion."
+  ],
+  "come over here": [
+    "The action \"come over here\" shows a person or object moving toward the viewer or another individual.",
+    "a photo of Come over here: A person or drone is approaching the camera."
+  ],
+  "stay where you are": [
+    "The action \"stay where you are\" shows remaining in the same physical position without moving.",
+    "a photo of Stay where you are: A person or drone is staying still."
+  ],
+  "rear right turn": [
+    "The action \"rear right turn\" shows an object or vehicle rotating backward toward the right.",
+    "a photo of Rear right turn: A drone is turning rearward to the right."
+  ],
+  "rear left turn": [
+    "The action \"rear left turn\" shows an object or vehicle rotating backward toward the left.",
+    "a photo of Rear left turn: A drone is turning rearward to the left."
+  ],
+  "abandon landing": [
+    "The action \"abandon landing\" shows a drone or aircraft aborting its descent and rising again.",
+    "a photo of Abandon landing: A drone is stopping a landing and lifting back up."
+  ],
+  "all clear": [
+    "The action \"all clear\" shows a person signaling that conditions are safe or acceptable.",
+    "a photo of All clear: A person is signaling everything is okay."
+  ],
+  "not clear": [
+    "The action \"not clear\" shows a person signaling danger or that conditions are unsafe.",
+    "a photo of Not clear: A person is signaling that something is unsafe."
+  ],
+  "have command": [
+    "The action \"have command\" shows someone signaling leadership or control over an operation.",
+    "a photo of Have command: A person is giving a command gesture."
+  ],
+  "follow me": [
+    "The action \"follow me\" shows someone signaling or leading another person or object to move behind them.",
+    "a photo of Follow me: A person is motioning for someone to follow."
+  ],
+  "turn left": [
+    "The action \"turn left\" involves rotating the body or object toward the left direction.",
+    "a photo of Turn left: A person or drone is turning left."
+  ],
+  "turn right": [
+    "The action \"turn right\" involves rotating the body or object toward the right direction.",
+    "a photo of Turn right: A person or drone is turning right."
+  ],
+  "throw litter": [
+    "The action \"throw litter\" involves discarding trash improperly onto the ground.",
+    "a photo of Throw litter: A person is throwing garbage onto the ground."
+  ],
+  "dig a hole": [
+    "The action \"dig a hole\" involves using hands or a tool to remove soil and create a hole.",
+    "a photo of Dig a hole: A person is digging into the ground with a tool."
+  ],
+  "mow": [
+    "The action \"mow\" involves cutting grass using a lawn mower or cutting tool.",
+    "a photo of Mow: A person is mowing grass outdoors."
+  ],
+  "set on fire": [
+    "The action \"set on fire\" involves igniting an object or area to produce flames.",
+    "a photo of Set on fire: A person is lighting something on fire."
+  ],
+  "smoke": [
+    "The action \"smoke\" involves inhaling and exhaling vapors from a cigarette or similar object.",
+    "a photo of Smoke: A person is smoking a cigarette."
+  ],
+  "cut the tree": [
+    "The action \"cut the tree\" involves using a saw or axe to chop down or trim a tree.",
+    "a photo of Cut the tree: A person is cutting a tree with a tool."
+  ],
+  "fishing": [
+    "The action \"fishing\" involves using a rod or net to catch fish from water.",
+    "a photo of Fishing: A person is holding a fishing rod near water."
+  ],
+  "pick a lock": [
+    "The action \"pick a lock\" involves manipulating a lock to open it without a key.",
+    "a photo of Pick a lock: A person is using tools to pick a lock."
+  ],
+  "pollute walls": [
+    "The action \"pollute walls\" shows someone marking, dirtying, or vandalizing a wall surface.",
+    "a photo of Pollute walls: A person is drawing or staining a wall."
+  ],
+  "hold someone hostage": [
+    "The action \"hold someone hostage\" involves detaining a person against their will.",
+    "a photo of Hold someone hostage: A person is restraining another individual."
+  ],
+  "threat someone with a gun": [
+    "The action \"threat someone with a gun\" shows a person pointing a firearm at another individual.",
+    "a photo of Threat someone with a gun: A person is aiming a gun at someone."
+  ],
+  "wave a goodbye": [
+    "The action \"wave a goodbye\" shows someone moving their hand back and forth to say farewell.",
+    "a photo of Wave a goodbye: A person is waving goodbye with one hand."
+  ],
+  "chase someone": [
+    "The action \"chase someone\" involves running quickly after another person.",
+    "a photo of Chase someone: A person is running after another individual."
+  ],
+  "comfort someone": [
+    "The action \"comfort someone\" shows offering emotional support through touch or gestures.",
+    "a photo of Comfort someone: A person is consoling or holding another person."
+  ],
+  "drag someone": [
+    "The action \"drag someone\" involves pulling another person along the ground or surface.",
+    "a photo of Drag someone: A person is pulling another person forcibly."
+  ],
+  "sweep the floor": [
+    "The action \"sweep the floor\" involves using a broom to clean dust or debris.",
+    "a photo of Sweep the floor: A person is sweeping the ground."
+  ],
+  "mop the floor": [
+    "The action \"mop the floor\" involves cleaning the floor using a wet mop.",
+    "a photo of Mop the floor: A person is mopping a floor surface."
+  ],
+  "bounce the ball": [
+    "The action \"bounce the ball\" involves repeatedly striking a ball against the ground.",
+    "a photo of Bounce the ball: A person is dribbling or bouncing a ball."
+  ],
+  "shoot at the basket": [
+    "The action \"shoot at the basket\" involves throwing a ball toward a basketball hoop to score.",
+    "a photo of Shoot at the basket: A person is shooting a basketball."
+  ],
+  "swing the racket": [
+    "The action \"swing the racket\" shows a person swinging a tennis or sports racket toward a ball.",
+    "a photo of Swing the racket: A person is swinging a racket in a sports setting."
+  ],
+  "leg pressing": [
+    "The action \"leg pressing\" involves pushing weight or resistance using the legs.",
+    "a photo of Leg pressing: A person is performing a leg press exercise."
+  ],
+  "escape (to survive)": [
+    "The action \"escape (to survive)\" involves running or fleeing quickly from danger.",
+    "a photo of Escape (to survive): A person is running away from a threatening situation."
+  ],
+  "call for help": [
+    "The action \"call for help\" shows someone shouting or signaling urgently for assistance.",
+    "a photo of Call for help: A person is raising their voice or arms for help."
+  ],
+  "wear a mask": [
+    "The action \"wear a mask\" involves placing a face mask over the nose and mouth.",
+    "a photo of Wear a mask: A person is wearing a protective face mask."
+  ],
+  "take off a mask": [
+    "The action \"take off a mask\" involves removing a face mask from the face.",
+    "a photo of Take off a mask: A person is taking off a mask from their face."
+  ],
+  "bend arms around someone’s shoulder": [
+    "The action \"bend arms around someone’s shoulder\" shows a person hugging or supporting someone by placing an arm around their shoulders.",
+    "a photo of Bend arms around someone’s shoulder: A person is placing their arm over someone’s shoulder."
+  ],
+  "run": [
+    "The action \"run\" shows a person moving quickly on foot.",
+    "a photo of Run: A person is running forward."
+  ],
+  "stab someone with a knife": [
+    "The action \"stab someone with a knife\" shows thrusting a knife toward another person.",
+    "a photo of Stab someone with a knife: A person is attacking someone with a knife."
+  ],
+  "throw a frisbee": [
+    "The action \"throw a frisbee\" involves tossing a flying disc forward with a flicking motion.",
+    "a photo of Throw a frisbee: A person is throwing a frisbee outdoors."
+  ],
+  "carry a carrying pole": [
+    "The action \"carry a carrying pole\" shows a person lifting a pole balanced across the shoulders to carry loads.",
+    "a photo of Carry a carrying pole: A person is carrying a pole with items attached."
+  ],
+  "use a lever to lift something": [
+    "The action \"use a lever to lift something\" involves applying force on a lever to raise a heavy object.",
+    "a photo of Use a lever to lift something: A person is lifting an object using a lever tool."
+  ],
+  "walk": [
+    "The action \"walk\" shows a person moving forward step by step on foot.",
+    "a photo of Walk: A person is walking casually on a path."
+  ],
+  "open an umbrella": [
+    "The action \"open an umbrella\" shows a person expanding an umbrella to shield from rain or sun.",
+    "a photo of Open an umbrella: A person is opening an umbrella overhead."
+  ],
+  "close an umbrella": [
+    "The action \"close an umbrella\" involves folding an umbrella after use.",
+    "a photo of Close an umbrella: A person is closing a folded umbrella."
+  ]
+}

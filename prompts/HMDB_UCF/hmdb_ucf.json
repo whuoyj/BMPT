@@ -1,0 +1,50 @@
+{
+  "climb": [
+    "Climb is the action of using hands and feet to move upward along a surface like a ladder, tree, or rock wall.",
+    "a photo of a Climb: A person is climbing up a surface, such as a rock or a tree."
+  ],
+  "fencing": [
+    "Fencing is a sport where two opponents use swords to score points by thrusting or striking within a defined area.",
+    "a photo of a Fencing: Two people are engaged in a sword-fighting sport called fencing."
+  ],
+  "golf": [
+    "Golf is a sport where players swing clubs to hit a ball into holes on a course in as few strokes as possible.",
+    "a photo of a Golf: A person is hitting a golf ball with a club, trying to get it into a hole."
+  ],
+  "kick_ball": [
+    "Kick ball is the action of striking a ball with your foot, often to pass, shoot, or start its movement.",
+    "a photo of a Kick ball: A person is kicking a ball, such as a soccer ball or a football."
+  ],
+  "pullup": [
+    "A pullup is an exercise where you pull your body upward while hanging from a bar until your chin passes over the bar.",
+    "a photo of a Pullup: A person is lifting their body up using their arms while hanging from a bar."
+  ],
+  "punch": [
+    "Punch is the action of striking an object or person with a closed fist quickly and forcefully.",
+    "a photo of a Punch: A person is striking an object with their fist, such as a punching bag or another person."
+  ],
+  "pushup": [
+    "A pushup involves lowering and raising the body using arm strength while keeping the back straight and feet grounded.",
+    "a photo of a Pushup: A person is lowering and raising their body using their arms while lying face-down on the ground."
+  ],
+  "ride_bike": [
+    "Riding a bike involves sitting on the seat, pedaling with feet, steering the handlebars, and balancing to move forward smoothly and safely.",
+    "a photo of a Ride bike: A person is pedaling a bicycle to move themselves forward on a path or road."
+  ],
+  "ride_horse": [
+    "Ride horse means sitting on a horse’s back and controlling its movement using reins, guiding the horse while maintaining balance and posture.",
+    "a photo of a Ride horse: A person is sitting on a horse and controlling its movements using reins and their body weight."
+  ],
+  "shoot_ball": [
+    "Shoot ball involves aiming, lifting, and releasing a ball toward a hoop or target to score points.",
+    "a photo of a Shoot ball: A person is throwing a ball towards a target, such as a basketball hoop or a soccer goal."
+  ],
+  "shoot_bow": [
+    "Shoot bow means drawing the bowstring back, aiming the arrow, then releasing it to let the arrow fly toward the target.",
+    "a photo of a Shoot bow: A person is using a bow and arrow to shoot at a target, such as a bullseye or a piece of fruit."
+  ],
+  "walk": [
+    "Walk is the action of moving forward by lifting and placing one foot in front of the other repeatedly.",
+    "a photo of a Walk: A person is moving forward on their feet in a slow and steady manner, one foot in front of the other."
+  ]
+}
