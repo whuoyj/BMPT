@@ -1,0 +1,51 @@
+brush hair -> hairstyling
+cartwheel -> Hula Hooping
+catch -> Floating
+chew -> smile
+clap -> Twist
+climb -> Masters of Stone
+climb stairs -> Punching
+dive -> standing
+draw sword -> possession of swords
+dribble -> block
+drink -> planning
+eat -> feeding
+fall floor -> Lunge
+fencing -> Boxing
+flic flac -> handstand
+golf -> Bunker Shot
+handstand -> flic flac
+hit -> golf
+hug -> Clapping
+jump -> Diving
+kick ball -> chase
+kick -> block
+kiss -> Embrace
+laugh -> Smiling
+pick -> swipe
+pour -> drink
+pullup -> Squatting
+punch -> Boxing
+push -> pull
+pushup -> sitting
+ride bike -> driving
+ride horse -> Trotting Horse
+run -> jump
+shake hands -> Accepting
+shoot ball -> dribble
+shoot bow -> Archery
+shoot gun -> aiming
+sit -> bending
+situp -> Push-up
+smile -> Laugh
+smoke -> gesturing
+somersault -> jumping
+stand -> sit up
+swing baseball -> batting
+sword exercise -> Swordsmanship
+sword -> Fencing
+talk -> shout
+throw -> swing
+turn -> talk
+walk -> Run
+wave -> raise

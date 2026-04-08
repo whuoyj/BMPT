@@ -1,0 +1,174 @@
+Approaching something with your camera -> Moving closer to an object  
+Attaching something to something -> Fixing one object to another  
+Bending something so that it deforms -> Flexing an object  
+Bending something until it breaks -> Snapping an object  
+Burying something in something -> Concealing an object  
+Closing something -> Sealing an item  
+Covering something with something -> Wrapping an object  
+Digging something out of something -> Unearthing an item  
+Dropping something behind something -> Placing an object out of view  
+Dropping something in front of something -> Positioning an object within sight  
+Dropping something into something -> Submerging an item  
+Dropping something next to something -> Placing an item alongside another  
+Dropping something onto something -> Releasing an object onto a surface  
+Failing to put something into something because something does not fit -> Attempting to insert but unable to  
+Folding something -> Creasing an object  
+Hitting something with something -> Striking an object  
+Holding something -> Grasping an item  
+Holding something behind something -> Concealing an item in hand  
+Holding something in front of something -> Presenting an object  
+Holding something next to something -> Aligning two objects  
+Holding something over something -> Hovering an item above  
+Laying something on the table on its side, not upright -> Placing an object horizontally  
+Letting something roll along a flat surface -> Allowing an item to glide  
+Letting something roll down a slanted surface -> Watching an object descend  
+Letting something roll up a slanted surface, so it rolls back down -> Guiding an item uphill and downhill  
+Lifting a surface with something on it but not enough for it to slide down -> Tilting a surface slightly  
+Lifting a surface with something on it until it starts sliding down -> Tilting until objects move  
+Lifting something up completely without letting it drop down -> Raising an item steadily  
+Lifting something up completely, then letting it drop down -> Hoisting and releasing an object  
+Lifting something with something on it -> Elevating an item with support  
+Lifting up one end of something without letting it drop down -> Tilting one side of an object  
+Lifting up one end of something, then letting it drop down -> Tilting and dropping an edge  
+Moving away from something with your camera -> Retreating from an object  
+Moving part of something -> Adjusting a component  
+Moving something across a surface until it falls down -> Sliding an object off  
+Moving something across a surface without it falling down -> Sliding an object steadily  
+Moving something and something away from each other -> Separating two items  
+Moving something and something closer to each other -> Bringing two items together  
+Moving something and something so they collide with each other -> Making two objects hit each other  
+Moving something and something so they pass each other -> Shifting items past one another  
+Moving something away from something -> Distancing an object  
+Moving something away from the camera -> Pulling an item backward  
+Moving something closer to something -> Bringing an item nearer  
+Moving something down -> Lowering an item  
+Moving something towards the camera -> Pushing an object forward  
+Moving something up -> Raising an object  
+Opening something -> Unsealing an item  
+Picking something up -> Lifting an object  
+Piling something up -> Stacking items  
+Plugging something into something -> Connecting one object to another  
+Plugging something into something but pulling it right out as you remove your hand -> Quickly connecting and disconnecting  
+Poking a hole into some substance -> Piercing a material  
+Poking a hole into something soft -> Indenting a soft object  
+Poking a stack of something so the stack collapses -> Toppling a pile  
+Poking a stack of something without the stack collapsing -> Touching a pile gently  
+Poking something so it slightly moves -> Nudging an item  
+Poking something so lightly that it doesn't or almost doesn't move -> Tapping an object delicately  
+Poking something so that it falls over -> Tipping an object  
+Poking something so that it spins around -> Twirling an object  
+Pouring something into something -> Filling a container  
+Pouring something into something until it overflows -> Overfilling a container  
+Pouring something onto something -> Spilling liquid onto a surface  
+Pouring something out of something -> Emptying a container  
+Pretending or failing to wipe something off of something -> Mimicking cleaning  
+Pretending or trying and failing to twist something -> Simulating twisting  
+Pretending to be tearing something that is not tearable -> Faking tearing  
+Pretending to close something without actually closing it -> Simulating shutting  
+Pretending to open something without actually opening it -> Faking opening  
+Pretending to pick something up -> Simulating lifting  
+Pretending to poke something -> Mimicking poking  
+Pretending to pour something out of something, but something is empty -> Faking pouring  
+Pretending to put something behind something -> Mimicking hiding  
+Pretending to put something into something -> Simulating inserting  
+Pretending to put something next to something -> Mimicking placing beside  
+Pretending to put something on a surface -> Simulating placing on  
+Pretending to put something onto something -> Faking stacking  
+Pretending to put something underneath something -> Simulating hiding under  
+Pretending to scoop something up with something -> Mimicking scooping  
+Pretending to spread air onto something -> Faking spreading  
+Pretending to sprinkle air onto something -> Simulating sprinkling  
+Pretending to squeeze something -> Mimicking pressing  
+Pretending to take something from somewhere -> Simulating grabbing  
+Pretending to take something out of something -> Faking removing  
+Pretending to throw something -> Mimicking throwing  
+Pretending to turn something upside down -> Simulating flipping  
+Pulling something from behind of something -> Extracting from behind  
+Pulling something from left to right -> Dragging horizontally  
+Pulling something from right to left -> Shifting sideways  
+Pulling something onto something -> Moving onto a surface  
+Pulling something out of something -> Extracting an object  
+Pulling two ends of something but nothing happens -> Stretching without effect  
+Pulling two ends of something so that it gets stretched -> Extending an object  
+Pulling two ends of something so that it separates into two pieces -> Tearing apart  
+Pushing something from left to right -> Sliding horizontally  
+Pushing something from right to left -> Shifting sideways  
+Pushing something off of something -> Knocking off an item  
+Pushing something onto something -> Moving an object onto a surface  
+Pushing something so it spins -> Rotating an object  
+Pushing something so that it almost falls off but doesn't -> Tilting precariously  
+Pushing something so that it falls off the table -> Toppling from a surface  
+Pushing something so that it slightly moves -> Nudging gently  
+Pushing something with something -> Shoving with a tool  
+Putting number of something onto something -> Counting while placing  
+Putting something and something on the table -> Arranging items on a table  
+Putting something behind something -> Hiding behind  
+Putting something in front of something -> Positioning in view  
+Putting something into something -> Inserting an object  
+Putting something next to something -> Placing beside  
+Putting something on a flat surface without letting it roll -> Positioning stably  
+Putting something on a surface -> Placing onto a plane  
+Putting something on the edge of something so it is not supported and falls down -> Balancing precariously  
+Putting something onto a slanted surface but it doesn't glide down -> Stabilizing on an incline  
+Putting something onto something -> Stacking objects  
+Putting something onto something else that cannot support it so it falls down -> Overloading a surface  
+Putting something similar to other things that are already on the table -> Adding to a collection  
+Putting something that can't roll onto a slanted surface, so it slides down -> Sliding an unrollable object  
+Putting something that can't roll onto a slanted surface, so it stays where it is -> Balancing an item on an incline  
+Putting something that cannot actually stand upright upright on the table, so it falls on its side -> Failing to balance an item  
+Putting something underneath something -> Sliding beneath  
+Putting something upright on the table -> Standing an object vertically  
+Putting something, something and something on the table -> Arranging multiple objects  
+Removing something, revealing something behind -> Uncovering an object  
+Rolling something on a flat surface -> Spinning on a plane  
+Scooping something up with something -> Lifting with a tool  
+Showing a photo of something to the camera -> Displaying an image  
+Showing something behind something -> Revealing hidden objects  
+Showing something next to something -> Demonstrating beside  
+Showing something on top of something -> Presenting above  
+Showing something to the camera -> Displaying directly  
+Showing that something is empty -> Demonstrating void  
+Showing that something is inside something -> Presenting contents  
+Something being deflected from something -> Rebounding on impact  
+Something colliding with something and both are being deflected -> Mutual deflection  
+Something colliding with something and both come to a halt -> Impact stopping motion  
+Something falling like a feather or paper -> Descending gently  
+Something falling like a rock -> Dropping heavily  
+Spilling something behind something -> Pouring out of sight  
+Spilling something next to something -> Overflowing nearby  
+Spilling something onto something -> Pouring onto a surface  
+Spinning something so it continues spinning -> Sustaining rotation  
+Spinning something that quickly stops spinning -> Rotating briefly  
+Spreading something onto something -> Applying evenly  
+Sprinkling something onto something -> Scattering over  
+Squeezing something -> Compressing firmly  
+Stacking number of something -> Piling sequentially  
+Stuffing something into something -> Filling tightly  
+Taking one of many similar things on the table -> Selecting a single item  
+Taking something from somewhere -> Removing from a place  
+Taking something out of something -> Extracting an object  
+Tearing something into two pieces -> Splitting apart  
+Tearing something just a little bit -> Partially ripping  
+Throwing something -> Launching an item  
+Throwing something against something -> Hurling with impact  
+Throwing something in the air and catching it -> Tossing and retrieving  
+Throwing something in the air and letting it fall -> Releasing mid-flight  
+Throwing something onto a surface -> Tossing onto a plane  
+Tilting something with something on it slightly so it doesn't fall down -> Adjusting gently  
+Tilting something with something on it until it falls off -> Toppling contents  
+Tipping something over -> Overturning  
+Tipping something with something in it over, so something in it falls out -> Spilling contents  
+Touching (without moving) part of something -> Contacting softly  
+Trying but failing to attach something to something because it doesn't stick -> Unsuccessful attachment  
+Trying to bend something unbendable so nothing happens -> Attempting to flex unsuccessfully  
+Trying to pour something into something, but missing so it spills next to it -> Misaligned pouring  
+Turning something upside down -> Flipping completely  
+Turning the camera downwards while filming something -> Panning down  
+Turning the camera left while filming something -> Panning left  
+Turning the camera right while filming something -> Panning right  
+Turning the camera upwards while filming something -> Panning up  
+Twisting (wringing) something wet until water comes out -> Extracting moisture  
+Twisting something -> Rotating  
+Uncovering something -> Revealing an object  
+Unfolding something -> Opening an item  
+Wiping something off of something -> Cleaning a surface  

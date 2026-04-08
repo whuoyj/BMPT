@@ -1,0 +1,12 @@
+climb -> Masters of Stone
+fencing -> Boxing
+golf -> Bunker Shot
+kick_ball -> chase
+pullup -> Squatting
+punch -> Boxing
+pushup -> sitting
+ride_bike -> driving
+ride_horse -> Trotting Horse
+shoot_ball -> dribble
+shoot_bow -> Archery
+walk -> Run

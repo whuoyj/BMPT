@@ -1,0 +1,155 @@
+drink -> hydration
+eat snacks -> light meal
+brush hair -> personal grooming
+drop something -> accidental release
+pick up something -> object retrieval
+throw away something -> discarding
+sit down -> resting posture
+stand up -> upright posture
+applaud -> audience appreciation
+read -> information scanning
+write -> note taking
+put on a coat -> dressing up
+take off a coat -> removing outerwear
+put on glasses -> vision adjustment
+take off glasses -> visual relief
+put on a hat -> head covering
+take off a hat -> uncovering head
+throw away a hat -> disposing headwear
+cheer -> celebration
+wave hands -> greeting gesture
+kick something -> foot strike
+reach into pockets -> searching pockets
+jump on single leg -> balance hopping
+jump on two legs -> vertical hopping
+make a phone call -> voice communication
+play with cell phones -> mobile interaction
+point somewhere -> directional indication
+look at the watch -> time checking
+rub hands -> warming motion
+bow -> respectful greeting
+shake head -> disagreement signal
+salute -> formal respect
+cross palms together -> polite request
+cross arms in front to say no -> refusal gesture
+wear headphones -> audio listening
+take off headphones -> stopping audio
+make a shh sign -> silence request
+touch the hair -> self adjustment
+thumb up -> approval signal
+thumb down -> disapproval signal
+make an OK sign -> confirmation gesture
+make a victory sign -> success gesture
+punch with fists -> aggressive striking
+figure snap -> rhythm signaling
+open the bottle -> container opening
+smell -> scent detection
+squat -> lower body exercise
+apply cream to face -> skincare routine
+apply cream to hands -> hand moisturizing
+grasp a bag -> holding luggage
+put down a bag -> unloading
+put something into a bag -> packing
+take something out of a bag -> unpacking
+open a box -> container access
+move a box -> object relocation
+put up hands -> surrender signal
+put hands on hips -> confident stance
+wrap arms around -> embracing posture
+shake arms -> arm loosening
+step on the spot walk -> marching in place
+kick aside -> clearing with foot
+kick backward -> rear foot strike
+cough -> throat clearing
+sneeze -> nasal reflex
+yawn -> fatigue expression
+blow nose -> nasal cleaning
+stagger -> unstable walking
+headache -> head discomfort
+chest discomfort -> breathing distress
+backache -> spinal pain
+neck-ache -> cervical pain
+vomit -> nausea release
+use a fan -> cooling action
+stretch body -> body relaxation
+punching someone -> physical assault
+kicking someone -> leg attack
+pushing someone -> forceful shove
+slap someone on the back -> encouraging tap
+point someone -> direct accusation
+hug -> emotional embrace
+give something to someone -> item transfer
+steal something from other’s pocket -> pickpocketing
+rob something from someone -> forceful theft
+shake hands -> social agreement
+walk toward someone -> approaching
+walk away from someone -> withdrawal
+hit someone with something -> weaponized strike
+threat some with a knife -> armed intimidation
+bump into someone -> accidental collision
+walk side by side -> joint walking
+high five -> celebratory contact
+drink a toast -> ceremonial drinking
+move something with someone -> cooperative carrying
+take a phone for someone -> assistance handling
+stalk someone -> following covertly
+whisper in someone’s ear -> private communication
+exchange something with someone -> mutual transfer
+lend an arm to support someone -> physical assistance
+rock-paper-scissors -> hand game
+hover -> aerial suspension
+land -> ground contact
+land at designated locations -> precise landing
+move forward -> forward motion
+move backward -> reverse motion
+move left -> lateral shift
+move right -> lateral shift
+ascend -> upward motion
+descend -> downward motion
+accelerate -> speed increase
+decelerate -> speed reduction
+come over here -> summon command
+stay where you are -> hold position
+rear right turn -> backward turning right
+rear left turn -> backward turning left
+abandon landing -> cancel descent
+all clear -> safe signal
+not clear -> danger signal
+have command -> authority control
+follow me -> guidance instruction
+turn left -> left navigation
+turn right -> right navigation
+throw litter -> environmental violation
+dig a hole -> ground excavation
+mow -> grass cutting
+set on fire -> ignition
+smoke -> tobacco use
+cut the tree -> tree removal
+fishing -> angling activity
+pick a lock -> forced entry
+pollute walls -> graffiti vandalism
+hold someone hostage -> human restraint
+threat someone with a gun -> armed threat
+wave a goodbye -> farewell gesture
+chase someone -> pursuit
+comfort someone -> emotional support
+drag someone -> forced pulling
+sweep the floor -> surface cleaning
+mop the floor -> wet cleaning
+bounce the ball -> ball dribbling
+shoot at the basket -> basketball shooting
+swing the racket -> racket striking
+leg pressing -> lower-body training
+escape (to survive) -> emergency fleeing
+call for help -> distress signaling
+wear a mask -> face covering
+take off a mask -> face uncovering
+bend arms around someone’s shoulder -> supportive hold
+run -> fast locomotion
+stab someone with a knife -> lethal attack
+throw a frisbee -> disc throwing
+carry a carrying pole -> load transport
+use a lever to lift something -> mechanical lifting
+walk -> casual locomotion
+open an umbrella -> rain protection
+close an umbrella -> rain gear folding
