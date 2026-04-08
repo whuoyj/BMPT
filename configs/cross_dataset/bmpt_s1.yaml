@@ -1,0 +1,38 @@
+DATA:
+    ROOT: ""
+    TRAIN_FILE: "datasets_splits/ucf_hmdb/ucf_train.txt"
+    VAL_FILE: "datasets_splits/ucf_hmdb/hmdb_val.txt"
+    DATASET: ucf101
+    NUM_FRAMES: 32
+    NUM_CLASSES: 12
+    LABEL_LIST: "labels/ucf-hmdb_label.csv"
+    LLM_JSON: './LLM_prompts/hmdb_51_llm_labels.json'
+
+MODEL:
+    ARCH: ViT-B/16
+    DIM: 512
+    # Prompt configuration (set to 0 to disable prompts)
+    VISION_DEPTH: 12      # Number of layers with visual prompts (0=disable)
+    LANGUAGE_DEPTH: 12     # Number of layers with text prompts (0=disable)
+    VISION_CTX: 8         # Number of visual prompt tokens per layer
+    LANGUAGE_CTX: 8       # Number of text prompt tokens per layer
+
+TRAINER:
+    PROMPT_MODE: True    # Enable parameter-efficient prompt tuning mode
+
+TRAIN:
+    IS_PRETRAIN: False
+    BATCH_SIZE: 4 # BS 64
+    ACCUMULATION_STEPS: 8
+    EPOCHS: 12
+    LR: 2e-07
+    DROPOUT_RATE: 0.8
+    VAL: False
+    WARMUP_EPOCHS: 2
+
+TEST:
+    TYPE: "FEWSHOT_VAL"
+    COEF_BB: 1.0
+    SCALE: 5.0
+
+SAVE_FREQ: 10  
